@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1691577975 source:c:\users\user\desktop\sda-greedy-probbani\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1691578086 source:c:\users\user\desktop\sda-tot\greedy\sda-greedy-probbani\main.c
+	<stdio.h>
+	<stdlib.h>
+
